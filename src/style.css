@@ -288,6 +288,12 @@ a {
   transition: transform 0.2s ease;
   transform: translate(5px, 0px);
 }
+@media (max-width: 1600px) {
+  .links-list {
+    position: static;
+    padding: 20px 4px;
+  }
+}
 
 @media (max-width: 1200px) {
   .home h1 {
@@ -326,10 +332,7 @@ a {
   .menu {
     display: none;
   }
-  .links-list {
-    position: static;
-    padding: 20px 4px;
-  }
+
 }
 
 @media (max-width: 900px) {
