@@ -81,7 +81,7 @@
       </a>
     </h3>
     <h3 class="resume">
-      <a href='./Naveen_Terance_Resume.pdf' target="_blank"> View Résumé ${a} </a>
+      <a href='./portfolio/Naveen_Terance_Resume.pdf' target="_blank"> View Résumé ${a} </a>
     </h3>
     <h3 class="skills">Skills : [ JavaScript/TypeScript, HTML ,CSS, React, React Native, ElectronJS, Svelte]</h3>
 
