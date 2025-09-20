@@ -25,7 +25,6 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
-
 }
 
 .dark_mode {
@@ -97,8 +96,7 @@ a {
 }
 
 .home {
-  display: flex;
-  min-height: 70vh;
+  min-height: 100vh;
   margin-bottom: 50px;
   padding: 1% 15% 1% 15%;
 }
@@ -291,7 +289,7 @@ a {
 @media (max-width: 1600px) {
   .links-list {
     position: static;
-    padding: 20px 4px;
+    padding: 20px 0px;
   }
 }
 
@@ -332,7 +330,6 @@ a {
   .menu {
     display: none;
   }
-
 }
 
 @media (max-width: 900px) {
