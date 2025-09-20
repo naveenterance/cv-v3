@@ -16,7 +16,7 @@ export const home = `
       </a>
     </h3>
     <h3 class="resume">
-      <a href='./portfolio/Naveen_Terance_Resume.pdf' target="_blank"> View Résumé ${linkIcon} </a>
+      <a href='./Naveen_Terance_Resume.pdf' target="_blank"> View Résumé ${linkIcon} </a>
     </h3>
     <h3 class="skills">Skills : [ JavaScript/TypeScript, HTML ,CSS, React, React Native, ElectronJS, Svelte]</h3>
 
